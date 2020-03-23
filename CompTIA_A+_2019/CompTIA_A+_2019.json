@@ -30144,6 +30144,998 @@
       "tags": [
 
       ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does virtualisation software do?",
+        "Allows one physical server to run several computing environments",
+        "8790701876",
+        "NetAcad ITEv7 Section 9.0.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701875",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of software allows one physical server to run several computing environments?",
+        "Virtualisation software",
+        "8790701875",
+        "NetAcad ITEv7 Section 9.0.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701876",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'cloud computing' describe?",
+        "The availability of shared computing resources as a service or on-demand",
+        "8790701878",
+        "NetAcad ITEv7 Section 9.0.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701877",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term refers to the availability of shared computing resources as a service or on-demand?",
+        "Cloud computing",
+        "8790701877",
+        "NetAcad ITEv7 Section 9.0.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701878",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'VM' stand for?",
+        "Virtual Machine",
+        "8790701880",
+        "NetAcad ITEv7 Section 9.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701879",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for a 'Virtual Machine'?",
+        "VM",
+        "8790701879",
+        "NetAcad ITEv7 Section 9.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701880",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'AWS' stand for?",
+        "Amazon Web Services",
+        "8790701882",
+        "NetAcad ITEv7 Section 9.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701881",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Amazon Web Services'?",
+        "AWS",
+        "8790701881",
+        "NetAcad ITEv7 Section 9.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701882",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are VMs?",
+        "Virtual computers with their own operating systems that share the hardware resources of the physical host computer",
+        "8790701884",
+        "NetAcad ITEv7 Section 9.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701883",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term refers to virtual computers with their own operating systems that share the hardware resources of the physical host computer?",
+        "Virtual Machines",
+        "8790701883",
+        "NetAcad ITEv7 Section 9.1.1.2"
+      ],
+      "flags": 0,
+      "guid": "8790701884",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is traditional server deployment?",
+        "A dedicated server for each service",
+        "8790701886",
+        "NetAcad ITEv7 Section 9.1.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701885",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of server deployment involves having a dedicated server for each service?",
+        "Traditional server deployment",
+        "8790701885",
+        "NetAcad ITEv7 Section 9.1.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701886",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the problems with traditional server deployment?",
+        "Wasted resources, sprawl, and having a single point of failure",
+        "8790701888",
+        "NetAcad ITEv7 Section 9.1.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701887",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Wasted resources, sprawl, and having a single point of failure are the problems with what?",
+        "Traditional server deployment",
+        "8790701887",
+        "NetAcad ITEv7 Section 9.1.1.3"
+      ],
+      "flags": 0,
+      "guid": "8790701888",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is the purpose of a hypervisor?",
+        "A hypervisor manages virtual machines and their resource allocations",
+        "8790701890",
+        "NetAcad ITEv7 Section 9.1.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790701889",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What type of program manages virtual machines and their resource allocations?",
+        "A hypervisor",
+        "8790701889",
+        "NetAcad ITEv7 Section 9.1.1.4"
+      ],
+      "flags": 0,
+      "guid": "8790701890",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the many advantages of virtualization?",
+        "Improved power, resource, and space efficiency, improved uptime and disaster recovery, reduced cost, faster provisioning, and better support for legacy systems",
+        "8790701892",
+        "NetAcad ITEv7 Section 9.1.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790701891",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "Improved power, resource, and space efficiency, improved uptime and disaster recovery, reduced cost, faster provisioning, and better support for legacy systems are the advantages of what?",
+        "Virtualization",
+        "8790701891",
+        "NetAcad ITEv7 Section 9.1.1.5"
+      ],
+      "flags": 0,
+      "guid": "8790701892",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the term 'host computer' refer to?",
+        "The physical computer that a VM uses the hardware resources of",
+        "8790701894",
+        "NetAcad ITEv7 Section 9.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701893",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term refers to the physical computer that a VM uses the hardware resources of?",
+        "Host computer",
+        "8790701893",
+        "NetAcad ITEv7 Section 9.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701894",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the term 'host OS' refer to?",
+        "The operating system of the host computer",
+        "8790701896",
+        "NetAcad ITEv7 Section 9.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701895",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term refers to the operating system of the host computer?",
+        "Host OS",
+        "8790701895",
+        "NetAcad ITEv7 Section 9.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701896",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the term 'guest OS' refer to?",
+        "The operating system running inside of a VM",
+        "8790701898",
+        "NetAcad ITEv7 Section 9.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701897",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term refers to the operating system running inside of a VM?",
+        "Guest OS",
+        "8790701897",
+        "NetAcad ITEv7 Section 9.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701898",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the term 'client-side virtualization' refer to?",
+        "Running a VM on a local desktop PC rather than on a server",
+        "8790701900",
+        "NetAcad ITEv7 Section 9.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701899",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term refers to the practice of running a VM on a local desktop PC rather than on a server?",
+        "Client-side virtualization",
+        "8790701899",
+        "NetAcad ITEv7 Section 9.1.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701900",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another term for the hypervisor?",
+        "Virtual Machine Manager",
+        "8790701902",
+        "NetAcad ITEv7 Section 9.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701901",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another term for the virtual machine manager?",
+        "Hypervisor",
+        "8790701901",
+        "NetAcad ITEv7 Section 9.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701902",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does the acronym 'VMM' stand for?",
+        "Virtual Machine Manager",
+        "8790701904",
+        "NetAcad ITEv7 Section 9.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701903",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for the term 'Virtual Machine Manager'?",
+        "VMM",
+        "8790701903",
+        "NetAcad ITEv7 Section 9.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701904",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another term for a type 1 hypervisor?",
+        "A native hypervisor",
+        "8790701906",
+        "NetAcad ITEv7 Section 9.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701905",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another term for a native hypervisor?",
+        "A type 1 hypervisor",
+        "8790701905",
+        "NetAcad ITEv7 Section 9.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701906",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another term for a type 2 hypervisor?",
+        "A hosted hypervisor",
+        "8790701908",
+        "NetAcad ITEv7 Section 9.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701907",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is another term for a hosted hypervisor?",
+        "A type 2 hypervisor",
+        "8790701907",
+        "NetAcad ITEv7 Section 9.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701908",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a type 1 hypervisor?",
+        "A hypervisor that runs directly on the physical hardware as if it were an operating system",
+        "8790701910",
+        "NetAcad ITEv7 Section 9.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701909",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term describes a hypervisor that runs directly on the physical hardware as if it were an operating system?",
+        "Type 1 hypervisor",
+        "8790701909",
+        "NetAcad ITEv7 Section 9.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701910",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is a type 2 hypervisor?",
+        "A hypervisor contained within a host OS",
+        "8790701912",
+        "NetAcad ITEv7 Section 9.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701911",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term describes a hypervisor contained within a host OS?",
+        "Type 2 hypervisor",
+        "8790701911",
+        "NetAcad ITEv7 Section 9.1.2.2"
+      ],
+      "flags": 0,
+      "guid": "8790701912",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'VDI' stand for?",
+        "Virtual Desktop Infrastructure",
+        "8790701914",
+        "NetAcad ITEv7 Section 9.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701913",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Virtual Desktop Infrastructure'?",
+        "VDI",
+        "8790701913",
+        "NetAcad ITEv7 Section 9.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701914",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'WVD' stand for?",
+        "Windows Virtual Desktop",
+        "8790701916",
+        "NetAcad ITEv7 Section 9.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701915",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Windows Virtual Desktop'?",
+        "WVD",
+        "8790701915",
+        "NetAcad ITEv7 Section 9.2.1.1"
+      ],
+      "flags": 0,
+      "guid": "8790701916",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'SaaS' stand for?",
+        "Software as a Service",
+        "8790701918",
+        "NetAcad ITEv7 Section 9.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701917",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Software as a Service'?",
+        "SaaS",
+        "8790701917",
+        "NetAcad ITEv7 Section 9.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701918",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'PaaS' stand for?",
+        "Platform as a Service",
+        "8790701920",
+        "NetAcad ITEv7 Section 9.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701919",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Platform as a Service'?",
+        "PaaS",
+        "8790701919",
+        "NetAcad ITEv7 Section 9.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701920",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'IaaS' stand for?",
+        "Infrastructure as a Service",
+        "8790701922",
+        "NetAcad ITEv7 Section 9.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701921",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Infrastructure as a Service'?",
+        "IaaS",
+        "8790701921",
+        "NetAcad ITEv7 Section 9.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701922",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'NIST' stand for?",
+        "National Institute of Standards and Technology",
+        "8790701924",
+        "NetAcad ITEv7 Section 9.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701923",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for the 'National Institute of Standards and Technology'?",
+        "NIST",
+        "8790701923",
+        "NetAcad ITEv7 Section 9.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701924",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is 'SaaS'?",
+        "A cloud provider providing access to services over the internet, such as web-based email",
+        "8790701926",
+        "NetAcad ITEv7 Section 9.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701925",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term refers to a cloud provider providing access to services over the internet, such as web-based email?",
+        "SaaS",
+        "8790701925",
+        "NetAcad ITEv7 Section 9.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701926",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'CRM' stand for?",
+        "Customer Relationship Management",
+        "8790701928",
+        "NetAcad ITEv7 Section 9.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701927",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'Customer Relationship Management' software?",
+        "CRM",
+        "8790701927",
+        "NetAcad ITEv7 Section 9.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701928",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is PaaS?",
+        "A cloud provider provides access to a complete operating system",
+        "8790701930",
+        "NetAcad ITEv7 Section 9.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701929",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term refers to a cloud provider providing access to a complete operating system?",
+        "PaaS",
+        "8790701929",
+        "NetAcad ITEv7 Section 9.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701930",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What is 'IaaS'?",
+        "A cloud provider provides access to physical equipment",
+        "8790701932",
+        "NetAcad ITEv7 Section 9.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701931",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What term describes a cloud provider providing access to physical equipment?",
+        "IaaS",
+        "8790701931",
+        "NetAcad ITEv7 Section 9.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701932",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What does 'ITaaS' stand for?",
+        "IT as a Service",
+        "8790701934",
+        "NetAcad ITEv7 Section 9.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701933",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What acronym is used for 'IT as a Service'?",
+        "ITaaS",
+        "8790701933",
+        "NetAcad ITEv7 Section 9.2.2.1"
+      ],
+      "flags": 0,
+      "guid": "8790701934",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "What are the 5 key characteristics of the cloud computing model?",
+        "On-demand service, elasticity, resource pooling, metered service, and broad access",
+        "8790701936",
+        "NetAcad ITEv7 Section 9.2.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790701935",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "On-demand service, elasticity, resource pooling, metered service, and broad access are the key components of what?",
+        "The cloud computing model",
+        "8790701935",
+        "NetAcad ITEv7 Section 9.2.2.4"
+      ],
+      "flags": 0,
+      "guid": "8790701936",
+      "note_model_uuid": "bfa36940-2042-11e9-8b6a-acbc3287506b",
+      "tags": [
+
+      ]
     }
   ]
 }
